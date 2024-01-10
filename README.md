@@ -1,4 +1,4 @@
 # my_alquran
 
-# with equran api
-# https://equran.id/
+with equran api
+https://equran.id/
