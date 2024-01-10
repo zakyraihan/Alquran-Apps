@@ -1,4 +1,4 @@
 # my_alquran
 
 with equran api
-https://equran.id/
+https://equran.id/apidev
